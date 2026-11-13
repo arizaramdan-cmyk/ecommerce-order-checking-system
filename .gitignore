@@ -1,0 +1,19 @@
+# Runtime data and secrets
+*.db
+*.sqlite*
+*.xls*
+*.csv
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+.env
+.env.*
+!.env.example
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
